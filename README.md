@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rafid-Ahmed313/RavenScribe/refs/heads/master/Frontend/public/icons/logo.png" alt="RavenScribe Logo" width="200"/>
+</p>
+
+
 # 🖋️ RavenScribe — The Open Source Platform for Independent Writers
 
 **RavenScribe** is a powerful open-source blogging platform where anyone can write, publish, and earn — designed to be the **YouTube of blogging**.

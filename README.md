@@ -70,7 +70,7 @@ The idea: **Writers should get paid for their words, just like creators on YouTu
 
 ```bash
 
-git clone https://github.com/your-username/RavenScribe.git
+git clone https://github.com/Rafid-Ahmed313/RavenScribe.git
 cd RavenScribe/backend
 pip install -r requirements.txt
 python manage.py migrate
